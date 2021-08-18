@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.2",
+    "morgan": "^1.10.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "This is my first nodejs project",
+  "main": "server.js",
+  "author": "TEST",
+  "license": "ISC"
+}
